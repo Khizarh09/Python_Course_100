@@ -64,3 +64,5 @@ if ran_choice == 0 and int(user_choice) == 1:
     print("You lost!")
 if ran_choice == 1 and int(user_choice) == 0:
     print("You won")
+
+print("Hello")
